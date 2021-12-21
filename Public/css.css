@@ -1,0 +1,57 @@
+.first {
+    padding-top: 40px;
+}
+
+.site-heading {
+        /* margin-top: 5rem;
+        margin-bottom: 3rem;
+        text-transform: uppercase; */
+        line-height: 1;
+        font-family: Raleway;
+}
+.cta{
+    padding-top:3rem;
+    padding-bottom:5rem;
+    /* background-color:rgba(230,167,86,.9) */
+}
+.page-section{
+    margin-top:5rem;
+    margin-bottom:5rem
+}
+
+
+.arow {
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+.remove {
+    margin-left: 0%;
+}
+.leftimg {
+    padding-top: 8%;
+    
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+.fa-instagram {
+  background: #fffaad;
+  color: rgb(235, 129, 8);
+}  
+.gallary img {
+    height: 250px;
+    width: 320px;
+}
